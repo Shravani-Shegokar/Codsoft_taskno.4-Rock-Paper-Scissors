@@ -10,6 +10,7 @@ The result of each round is displayed, and the user's score is tracked throughou
 
 ● **Django** : For creating the web interface and game logic.
 ● **HTML/CSS** : For designing the game interface and styling elements.
+● **Python**   : The core language for building the application.
 
 ## Installation 🔗
 1. Download or Clone the repository. 
@@ -22,5 +23,13 @@ step2:
 ```bash
 $ python manage.py runserver
 ```
+Click on this to open browser:
+
+```bash
+ Running on [http://127.0.0.1:8000]
+```
+
+## Contact 
+●[Shravani Shegokar](https://www.linkedin.com/in/shravani-shegokar-b09054291/)
 
 
