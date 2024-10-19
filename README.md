@@ -9,7 +9,9 @@ The result of each round is displayed, and the user's score is tracked throughou
 # Technologies Used 💡
 
 ● **Django** : For creating the web interface and game logic.
+
 ● **HTML/CSS** : For designing the game interface and styling elements.
+
 ● **Python**   : The core language for building the application.
 
 ## Installation 🔗
